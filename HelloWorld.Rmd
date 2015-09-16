@@ -2,7 +2,9 @@
 title: "HelloWorld"
 author: "Eliana Vallejo"
 date: "16 de septiembre de 2015"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 This is a markdown file
